@@ -11,4 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\e-store-maintanance-model\e-store-maintanance-model.csproj" />
+    <ProjectReference Include="..\e-store-maintanance-servicecontract\e-store-maintanance-servicecontract.csproj" />
+    <ProjectReference Include="..\e-store-maintanance-data-access\e-store-maintanance-data-access.csproj" />
+  </ItemGroup>
+
 </Project>
