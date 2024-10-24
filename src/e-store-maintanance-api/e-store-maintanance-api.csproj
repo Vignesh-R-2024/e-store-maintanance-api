@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <ImplicitUsings>disaple</ImplicitUsings>
     <RootNamespace>e_store_maintanance_api</RootNamespace>
   </PropertyGroup>
 
